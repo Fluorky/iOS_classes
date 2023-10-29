@@ -8,4 +8,4 @@ Instruction:
 
 1.git clone https://github.com/Fluorky/iOS_classes
 
-2.To open the project plese select folder with interesting class and use xcode to open project or folder.
+2.To open the project please select folder with interesting class and use xcode to open project or folder.
